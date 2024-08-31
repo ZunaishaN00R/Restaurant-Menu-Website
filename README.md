@@ -1,3 +1,6 @@
+![Final Output and Look of the Web page](https://github.com/user-attachments/assets/c34a1476-228b-4705-8bb5-30a53ab461cb)
+
+
 # Restaurant Menu Website
 
 This repository contains the source code for a restaurant menu website built using HTML and CSS. The website displays images of menu items along with their descriptions and prices. The menu is styled to be visually appealing and easy to navigate.
